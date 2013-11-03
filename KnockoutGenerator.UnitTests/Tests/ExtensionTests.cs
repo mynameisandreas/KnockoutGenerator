@@ -17,7 +17,7 @@ namespace KnockoutGenerator.UnitTests.Tests
 
         [Test]
         [ExpectedException(typeof(System.ArgumentNullException))]
-        public void ExpextArgumentNullException()
+        public void ExpectArgumentNullException()
         {
             "".FormatCamelCase();
         }

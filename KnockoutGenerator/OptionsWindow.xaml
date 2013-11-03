@@ -1,0 +1,105 @@
+﻿<Window x:Class="AndreasGustafsson.KnockoutGenerator.OptionsWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Knockout Generator Options"
+        WindowStartupLocation="CenterScreen"
+        ShowInTaskbar="False"
+        SizeToContent="WidthAndHeight"
+        ResizeMode="CanResize"
+        MinWidth="400"
+        MaxHeight="900">
+    <Window.Resources>
+        <Style TargetType="TextBlock">
+            <Setter Property="Foreground" Value="Black"/>
+        </Style>
+        <Style TargetType="Button">
+            <Setter Property="Padding" Value="15, 2, 15, 2" />
+            <Setter Property="MinWidth" Value="90" />
+            <Setter Property="HorizontalAlignment" Value="Center" />
+            <Setter Property="Margin" Value="5" />
+        </Style>
+    </Window.Resources>
+    <ScrollViewer MaxHeight="900">
+        <StackPanel Background="Transparent" Margin="5" DataContext="{Binding}">
+            <StackPanel Orientation="Horizontal">
+                <RadioButton GroupName="Group" IsChecked="{Binding CamelCase, Mode=TwoWay}" Content="CamelCasing" />
+                <RadioButton GroupName="Group" IsChecked="{Binding PascalCase, Mode=TwoWay}" Content="PascalCasing" Margin="20 0 0 0"/>
+            </StackPanel>
+            <DockPanel>
+                <ItemsControl ItemsSource="{Binding Path=Classes}"  DockPanel.Dock="Left">
+                    <ItemsControl.ItemTemplate>
+                        <DataTemplate>
+                            <Border BorderThickness="1" BorderBrush="WhiteSmoke" CornerRadius="2" Margin="5" Padding="5">
+                                <StackPanel>
+                                    <StackPanel Orientation="Horizontal" Margin="0, 3">
+                                        <TextBlock Text="Class name: " />
+                                        <TextBlock DataContext="{Binding}" Text="{Binding Name}" />
+                                    </StackPanel>
+                                    <StackPanel>
+                                        <StackPanel Orientation="Horizontal" HorizontalAlignment="Right"   Margin="0,5">
+                                            <CheckBox DataContext="{Binding}" IsEnabled="{Binding Enable}" Checked="ToggleButton_OnChecked" Unchecked="ToggleButton_OnChecked" Content="All Observable" Margin="5,0"/>
+                                            <CheckBox DataContext="{Binding}" IsChecked="{Binding Ignore, Mode=TwoWay}" Content="Ignore class" Checked="ToggleButton_IgnoreClass_OnChecked" Unchecked="ToggleButton_IgnoreClass_OnChecked"/>
+                                        </StackPanel>
+
+                                        <ListView DataContext="{Binding}" ItemsSource="{Binding Properties}" IsEnabled="{Binding Enable}" Margin="0,5" BorderThickness="0" Background="Transparent">
+                                            <ListView.ItemContainerStyle>
+                                                <Style TargetType="ListViewItem">
+                                                    <Setter Property="HorizontalContentAlignment" Value="Stretch" />
+                                                    <Setter Property="Margin" Value="0,4" />
+                                                    <Style.Triggers>
+                                                        <Trigger Property="IsSelected" Value="True">
+                                                            <Setter Property="Background" Value="Transparent" />
+                                                            <Setter Property="BorderBrush" Value="Transparent" />
+                                                        </Trigger>
+                                                        <Trigger Property="IsMouseOver" Value="True">
+                                                            <Setter Property="Background" Value="Transparent" />
+                                                            <Setter Property="BorderBrush" Value="Transparent" />
+                                                        </Trigger>
+                                                    </Style.Triggers>
+                                                </Style>
+                                            </ListView.ItemContainerStyle>
+                                            <ListView.View>
+                                                <GridView>
+                                                    <GridViewColumn Header="Name" Width="200">
+                                                        <GridViewColumn.CellTemplate>
+                                                            <DataTemplate>
+                                                                <TextBlock DataContext="{Binding}" Text="{Binding Name}" HorizontalAlignment="Left" Foreground="Black"/>
+                                                            </DataTemplate>
+                                                        </GridViewColumn.CellTemplate>
+                                                    </GridViewColumn>
+                                                    <GridViewColumn Header="Observable"  Width="65pt">
+                                                        <GridViewColumn.CellTemplate>
+                                                            <DataTemplate>
+                                                                <CheckBox DataContext="{Binding}" IsChecked="{Binding IsObservable}" HorizontalAlignment="Center" />
+                                                            </DataTemplate>
+                                                        </GridViewColumn.CellTemplate>
+                                                    </GridViewColumn>
+                                                    <GridViewColumn Header="Ignore" Width="65pt">
+                                                        <GridViewColumn.CellTemplate>
+                                                            <DataTemplate>
+                                                                <CheckBox DataContext="{Binding}" IsChecked="{Binding Ignore}" HorizontalAlignment="Center"/>
+                                                            </DataTemplate>
+                                                        </GridViewColumn.CellTemplate>
+                                                    </GridViewColumn>
+
+                                                </GridView>
+                                            </ListView.View>
+                                        </ListView>
+                                    </StackPanel>
+                                </StackPanel>
+                            </Border>
+                        </DataTemplate>
+                    </ItemsControl.ItemTemplate>
+                </ItemsControl>
+
+                <StackPanel  Margin="5" DockPanel.Dock="Right">
+                    <TextBox IsReadOnly="True" DataContext="{Binding}" Text="{Binding GeneratedJsContent, UpdateSourceTrigger=PropertyChanged}" BorderThickness="0"/>
+                </StackPanel>
+            </DockPanel>
+
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
+                <Button Click="ButtonCopyToClipBoard_Click">Copy to clipboard</Button>
+            </StackPanel>
+        </StackPanel>
+    </ScrollViewer>
+</Window>

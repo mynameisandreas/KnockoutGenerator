@@ -1,0 +1,66 @@
+C:\Users\Andreas\Documents\Visual Studio 2012\Projects\KnockoutGenerator\KnockoutGenerator-Development\KnockoutGenerator\bin\Debug\KnockoutGenerator.dll.config
+C:\Users\Andreas\Documents\Visual Studio 2012\Projects\KnockoutGenerator\KnockoutGenerator-Development\KnockoutGenerator\bin\Debug\KnockoutGenerator.dll
+C:\Users\Andreas\Documents\Visual Studio 2012\Projects\KnockoutGenerator\KnockoutGenerator-Development\KnockoutGenerator\bin\Debug\KnockoutGenerator.pdb
+C:\Users\Andreas\Documents\Visual Studio 2012\Projects\KnockoutGenerator\KnockoutGenerator-Development\KnockoutGenerator\bin\Debug\KnockoutGenerator.pkgdef
+C:\Users\Andreas\Documents\Visual Studio 2012\Projects\KnockoutGenerator\KnockoutGenerator-Development\KnockoutGenerator\bin\Debug\KnockoutGenerator.vsix
+C:\Users\Andreas\Documents\Visual Studio 2012\Projects\KnockoutGenerator\KnockoutGenerator-Development\KnockoutGenerator\bin\Debug\KnockoutGenerator.Core.dll
+C:\Users\Andreas\Documents\Visual Studio 2012\Projects\KnockoutGenerator\KnockoutGenerator-Development\KnockoutGenerator\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Andreas\Documents\Visual Studio 2012\Projects\KnockoutGenerator\KnockoutGenerator-Development\KnockoutGenerator\bin\Debug\Mono.Cecil.dll
+C:\Users\Andreas\Documents\Visual Studio 2012\Projects\KnockoutGenerator\KnockoutGenerator-Development\KnockoutGenerator\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Andreas\Documents\Visual Studio 2012\Projects\KnockoutGenerator\KnockoutGenerator-Development\KnockoutGenerator\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Andreas\Documents\Visual Studio 2012\Projects\KnockoutGenerator\KnockoutGenerator-Development\KnockoutGenerator\bin\Debug\Mono.Cecil.Rocks.dll
+C:\Users\Andreas\Documents\Visual Studio 2012\Projects\KnockoutGenerator\KnockoutGenerator-Development\KnockoutGenerator\bin\Debug\KnockoutGenerator.Core.pdb
+C:\Users\Andreas\Documents\Visual Studio 2012\Projects\KnockoutGenerator\KnockoutGenerator-Development\KnockoutGenerator\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\Andreas\Documents\Visual Studio 2012\Projects\KnockoutGenerator\KnockoutGenerator-Development\KnockoutGenerator\obj\Debug\KnockoutGenerator.csprojResolveAssemblyReference.cache
+C:\Users\Andreas\Documents\Visual Studio 2012\Projects\KnockoutGenerator\KnockoutGenerator-Development\KnockoutGenerator\obj\Debug\KnockoutGenerator.csproj.ResolveComReference.cache
+C:\Users\Andreas\Documents\Visual Studio 2012\Projects\KnockoutGenerator\KnockoutGenerator-Development\KnockoutGenerator\obj\Debug\OptionsWindow.baml
+C:\Users\Andreas\Documents\Visual Studio 2012\Projects\KnockoutGenerator\KnockoutGenerator-Development\KnockoutGenerator\obj\Debug\OptionsWindow.g.cs
+C:\Users\Andreas\Documents\Visual Studio 2012\Projects\KnockoutGenerator\KnockoutGenerator-Development\KnockoutGenerator\obj\Debug\KnockoutGenerator_MarkupCompile.cache
+C:\Users\Andreas\Documents\Visual Studio 2012\Projects\KnockoutGenerator\KnockoutGenerator-Development\KnockoutGenerator\obj\Debug\KnockoutGenerator.g.resources
+C:\Users\Andreas\Documents\Visual Studio 2012\Projects\KnockoutGenerator\KnockoutGenerator-Development\KnockoutGenerator\obj\Debug\VSPackage.resources
+C:\Users\Andreas\Documents\Visual Studio 2012\Projects\KnockoutGenerator\KnockoutGenerator-Development\KnockoutGenerator\obj\Debug\AndreasGustafsson.KnockoutGenerator.Resources.resources
+C:\Users\Andreas\Documents\Visual Studio 2012\Projects\KnockoutGenerator\KnockoutGenerator-Development\KnockoutGenerator\obj\Debug\KnockoutGenerator.csproj.GenerateResource.Cache
+C:\Users\Andreas\Documents\Visual Studio 2012\Projects\KnockoutGenerator\KnockoutGenerator-Development\KnockoutGenerator\obj\Debug\KnockoutGenerator.cto
+C:\Users\Andreas\Documents\Visual Studio 2012\Projects\KnockoutGenerator\KnockoutGenerator-Development\KnockoutGenerator\obj\Debug\VSCT.read.1.tlog
+C:\Users\Andreas\Documents\Visual Studio 2012\Projects\KnockoutGenerator\KnockoutGenerator-Development\KnockoutGenerator\obj\Debug\VSCT.write.1.tlog
+C:\Users\Andreas\Documents\Visual Studio 2012\Projects\KnockoutGenerator\KnockoutGenerator-Development\KnockoutGenerator\obj\Debug\CtoResourceMerger.cache
+C:\Users\Andreas\Documents\Visual Studio 2012\Projects\KnockoutGenerator\KnockoutGenerator-Development\KnockoutGenerator\obj\Debug\VSPackage.resources.original
+C:\Users\Andreas\Documents\Visual Studio 2012\Projects\KnockoutGenerator\KnockoutGenerator-Development\KnockoutGenerator\obj\Debug\KnockoutGenerator.dll
+C:\Users\Andreas\Documents\Visual Studio 2012\Projects\KnockoutGenerator\KnockoutGenerator-Development\KnockoutGenerator\obj\Debug\KnockoutGenerator.pdb
+C:\Users\Andreas\Documents\Visual Studio 2012\Projects\KnockoutGenerator\KnockoutGenerator-Development\KnockoutGenerator\obj\Debug\KnockoutGenerator.pkgdef
+C:\Users\Andreas\Documents\Visual Studio 2012\Projects\KnockoutGenerator\KnockoutGenerator-Development\KnockoutGenerator\obj\Debug\KnockoutGenerator.latest.pkgdef
+C:\Users\Andreas\Documents\Visual Studio 2012\Projects\KnockoutGenerator\KnockoutGenerator-Development\KnockoutGenerator\obj\Debug\extension.vsixmanifest
+C:\Users\Andreas\Documents\Visual Studio 2012\Projects\KnockoutGenerator\KnockoutGenerator-Development\KnockoutGenerator\bin\Debug\extension.vsixmanifest
+C:\Users\Andreas\Documents\GitHub\KnockoutGenerator\KnockoutGenerator\bin\Debug\KnockoutGenerator.dll.config
+C:\Users\Andreas\Documents\GitHub\KnockoutGenerator\KnockoutGenerator\bin\Debug\KnockoutGenerator.dll
+C:\Users\Andreas\Documents\GitHub\KnockoutGenerator\KnockoutGenerator\bin\Debug\KnockoutGenerator.pdb
+C:\Users\Andreas\Documents\GitHub\KnockoutGenerator\KnockoutGenerator\bin\Debug\KnockoutGenerator.pkgdef
+C:\Users\Andreas\Documents\GitHub\KnockoutGenerator\KnockoutGenerator\bin\Debug\KnockoutGenerator.vsix
+C:\Users\Andreas\Documents\GitHub\KnockoutGenerator\KnockoutGenerator\bin\Debug\extension.vsixmanifest
+C:\Users\Andreas\Documents\GitHub\KnockoutGenerator\KnockoutGenerator\bin\Debug\KnockoutGenerator.Core.dll
+C:\Users\Andreas\Documents\GitHub\KnockoutGenerator\KnockoutGenerator\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Andreas\Documents\GitHub\KnockoutGenerator\KnockoutGenerator\bin\Debug\Mono.Cecil.dll
+C:\Users\Andreas\Documents\GitHub\KnockoutGenerator\KnockoutGenerator\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Andreas\Documents\GitHub\KnockoutGenerator\KnockoutGenerator\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Andreas\Documents\GitHub\KnockoutGenerator\KnockoutGenerator\bin\Debug\Mono.Cecil.Rocks.dll
+C:\Users\Andreas\Documents\GitHub\KnockoutGenerator\KnockoutGenerator\bin\Debug\KnockoutGenerator.Core.pdb
+C:\Users\Andreas\Documents\GitHub\KnockoutGenerator\KnockoutGenerator\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\Andreas\Documents\GitHub\KnockoutGenerator\KnockoutGenerator\obj\Debug\KnockoutGenerator.csprojResolveAssemblyReference.cache
+C:\Users\Andreas\Documents\GitHub\KnockoutGenerator\KnockoutGenerator\obj\Debug\KnockoutGenerator.csproj.ResolveComReference.cache
+C:\Users\Andreas\Documents\GitHub\KnockoutGenerator\KnockoutGenerator\obj\Debug\OptionsWindow.baml
+C:\Users\Andreas\Documents\GitHub\KnockoutGenerator\KnockoutGenerator\obj\Debug\OptionsWindow.g.cs
+C:\Users\Andreas\Documents\GitHub\KnockoutGenerator\KnockoutGenerator\obj\Debug\KnockoutGenerator_MarkupCompile.cache
+C:\Users\Andreas\Documents\GitHub\KnockoutGenerator\KnockoutGenerator\obj\Debug\KnockoutGenerator.g.resources
+C:\Users\Andreas\Documents\GitHub\KnockoutGenerator\KnockoutGenerator\obj\Debug\VSPackage.resources
+C:\Users\Andreas\Documents\GitHub\KnockoutGenerator\KnockoutGenerator\obj\Debug\AndreasGustafsson.KnockoutGenerator.Resources.resources
+C:\Users\Andreas\Documents\GitHub\KnockoutGenerator\KnockoutGenerator\obj\Debug\KnockoutGenerator.csproj.GenerateResource.Cache
+C:\Users\Andreas\Documents\GitHub\KnockoutGenerator\KnockoutGenerator\obj\Debug\KnockoutGenerator.cto
+C:\Users\Andreas\Documents\GitHub\KnockoutGenerator\KnockoutGenerator\obj\Debug\VSCT.read.1.tlog
+C:\Users\Andreas\Documents\GitHub\KnockoutGenerator\KnockoutGenerator\obj\Debug\VSCT.write.1.tlog
+C:\Users\Andreas\Documents\GitHub\KnockoutGenerator\KnockoutGenerator\obj\Debug\CtoResourceMerger.cache
+C:\Users\Andreas\Documents\GitHub\KnockoutGenerator\KnockoutGenerator\obj\Debug\VSPackage.resources.original
+C:\Users\Andreas\Documents\GitHub\KnockoutGenerator\KnockoutGenerator\obj\Debug\KnockoutGenerator.dll
+C:\Users\Andreas\Documents\GitHub\KnockoutGenerator\KnockoutGenerator\obj\Debug\KnockoutGenerator.pdb
+C:\Users\Andreas\Documents\GitHub\KnockoutGenerator\KnockoutGenerator\obj\Debug\KnockoutGenerator.pkgdef
+C:\Users\Andreas\Documents\GitHub\KnockoutGenerator\KnockoutGenerator\obj\Debug\KnockoutGenerator.latest.pkgdef
+C:\Users\Andreas\Documents\GitHub\KnockoutGenerator\KnockoutGenerator\obj\Debug\extension.vsixmanifest

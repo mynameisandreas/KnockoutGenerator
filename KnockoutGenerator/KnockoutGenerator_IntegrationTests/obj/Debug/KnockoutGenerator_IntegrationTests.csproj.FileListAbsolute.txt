@@ -1,0 +1,28 @@
+C:\Users\Andreas\Documents\Visual Studio 2012\Projects\KnockoutGenerator\KnockoutGenerator-Development\KnockoutGenerator\KnockoutGenerator_IntegrationTests\bin\Debug\KnockoutGenerator_IntegrationTests.dll
+C:\Users\Andreas\Documents\Visual Studio 2012\Projects\KnockoutGenerator\KnockoutGenerator-Development\KnockoutGenerator\KnockoutGenerator_IntegrationTests\bin\Debug\KnockoutGenerator_IntegrationTests.pdb
+C:\Users\Andreas\Documents\Visual Studio 2012\Projects\KnockoutGenerator\KnockoutGenerator-Development\KnockoutGenerator\KnockoutGenerator_IntegrationTests\bin\Debug\KnockoutGenerator.dll
+C:\Users\Andreas\Documents\Visual Studio 2012\Projects\KnockoutGenerator\KnockoutGenerator-Development\KnockoutGenerator\KnockoutGenerator_IntegrationTests\bin\Debug\Microsoft.VSSDK.TestHostFramework.dll
+C:\Users\Andreas\Documents\Visual Studio 2012\Projects\KnockoutGenerator\KnockoutGenerator-Development\KnockoutGenerator\KnockoutGenerator_IntegrationTests\bin\Debug\KnockoutGenerator.Core.dll
+C:\Users\Andreas\Documents\Visual Studio 2012\Projects\KnockoutGenerator\KnockoutGenerator-Development\KnockoutGenerator\KnockoutGenerator_IntegrationTests\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Andreas\Documents\Visual Studio 2012\Projects\KnockoutGenerator\KnockoutGenerator-Development\KnockoutGenerator\KnockoutGenerator_IntegrationTests\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Andreas\Documents\Visual Studio 2012\Projects\KnockoutGenerator\KnockoutGenerator-Development\KnockoutGenerator\KnockoutGenerator_IntegrationTests\bin\Debug\KnockoutGenerator.pdb
+C:\Users\Andreas\Documents\Visual Studio 2012\Projects\KnockoutGenerator\KnockoutGenerator-Development\KnockoutGenerator\KnockoutGenerator_IntegrationTests\bin\Debug\Microsoft.VSSDK.TestHostFramework.pdb
+C:\Users\Andreas\Documents\Visual Studio 2012\Projects\KnockoutGenerator\KnockoutGenerator-Development\KnockoutGenerator\KnockoutGenerator_IntegrationTests\bin\Debug\KnockoutGenerator.Core.pdb
+C:\Users\Andreas\Documents\Visual Studio 2012\Projects\KnockoutGenerator\KnockoutGenerator-Development\KnockoutGenerator\KnockoutGenerator_IntegrationTests\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\Andreas\Documents\Visual Studio 2012\Projects\KnockoutGenerator\KnockoutGenerator-Development\KnockoutGenerator\KnockoutGenerator_IntegrationTests\obj\Debug\KnockoutGenerator_IntegrationTests.csprojResolveAssemblyReference.cache
+C:\Users\Andreas\Documents\Visual Studio 2012\Projects\KnockoutGenerator\KnockoutGenerator-Development\KnockoutGenerator\KnockoutGenerator_IntegrationTests\obj\Debug\KnockoutGenerator_IntegrationTests.dll
+C:\Users\Andreas\Documents\Visual Studio 2012\Projects\KnockoutGenerator\KnockoutGenerator-Development\KnockoutGenerator\KnockoutGenerator_IntegrationTests\obj\Debug\KnockoutGenerator_IntegrationTests.pdb
+C:\Users\Andreas\Documents\GitHub\KnockoutGenerator\KnockoutGenerator\KnockoutGenerator_IntegrationTests\bin\Debug\KnockoutGenerator_IntegrationTests.dll
+C:\Users\Andreas\Documents\GitHub\KnockoutGenerator\KnockoutGenerator\KnockoutGenerator_IntegrationTests\bin\Debug\KnockoutGenerator_IntegrationTests.pdb
+C:\Users\Andreas\Documents\GitHub\KnockoutGenerator\KnockoutGenerator\KnockoutGenerator_IntegrationTests\bin\Debug\KnockoutGenerator.dll
+C:\Users\Andreas\Documents\GitHub\KnockoutGenerator\KnockoutGenerator\KnockoutGenerator_IntegrationTests\bin\Debug\Microsoft.VSSDK.TestHostFramework.dll
+C:\Users\Andreas\Documents\GitHub\KnockoutGenerator\KnockoutGenerator\KnockoutGenerator_IntegrationTests\bin\Debug\KnockoutGenerator.Core.dll
+C:\Users\Andreas\Documents\GitHub\KnockoutGenerator\KnockoutGenerator\KnockoutGenerator_IntegrationTests\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Andreas\Documents\GitHub\KnockoutGenerator\KnockoutGenerator\KnockoutGenerator_IntegrationTests\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Andreas\Documents\GitHub\KnockoutGenerator\KnockoutGenerator\KnockoutGenerator_IntegrationTests\bin\Debug\KnockoutGenerator.pdb
+C:\Users\Andreas\Documents\GitHub\KnockoutGenerator\KnockoutGenerator\KnockoutGenerator_IntegrationTests\bin\Debug\Microsoft.VSSDK.TestHostFramework.pdb
+C:\Users\Andreas\Documents\GitHub\KnockoutGenerator\KnockoutGenerator\KnockoutGenerator_IntegrationTests\bin\Debug\KnockoutGenerator.Core.pdb
+C:\Users\Andreas\Documents\GitHub\KnockoutGenerator\KnockoutGenerator\KnockoutGenerator_IntegrationTests\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\Andreas\Documents\GitHub\KnockoutGenerator\KnockoutGenerator\KnockoutGenerator_IntegrationTests\obj\Debug\KnockoutGenerator_IntegrationTests.csprojResolveAssemblyReference.cache
+C:\Users\Andreas\Documents\GitHub\KnockoutGenerator\KnockoutGenerator\KnockoutGenerator_IntegrationTests\obj\Debug\KnockoutGenerator_IntegrationTests.dll
+C:\Users\Andreas\Documents\GitHub\KnockoutGenerator\KnockoutGenerator\KnockoutGenerator_IntegrationTests\obj\Debug\KnockoutGenerator_IntegrationTests.pdb

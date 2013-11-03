@@ -1,0 +1,91 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KnockoutGenerator", "KnockoutGenerator\KnockoutGenerator.csproj", "{DFBD665A-ED66-40D1-96D1-0528769856A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KnockoutGenerator_IntegrationTests", "KnockoutGenerator\KnockoutGenerator_IntegrationTests\KnockoutGenerator_IntegrationTests.csproj", "{F117F997-BCD1-4B3C-86A1-8B8E84E8D1DA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F64E97F0-5985-42CA-9B52-5640A6364C7D}"
+	ProjectSection(SolutionItems) = preProject
+		ICSharpCode.NRefactory.dll = ICSharpCode.NRefactory.dll
+		IntegrationTests.testsettings = IntegrationTests.testsettings
+		UnitTests.testsettings = UnitTests.testsettings
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KnockoutGenerator_UnitTests", "KnockoutGenerator\KnockoutGenerator_UnitTests\KnockoutGenerator_UnitTests.csproj", "{52ED7149-0FEC-4670-A22C-7F21020A5A09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KnockoutGenerator.UnitTests", "KnockoutGenerator.UnitTests\KnockoutGenerator.UnitTests.csproj", "{247B4A83-E0A3-4F98-8011-102E6BBC45BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KnockoutGenerator.Core", "KnockoutGenerator.Core\KnockoutGenerator.Core.csproj", "{65B56C09-85DB-4D1A-B03C-0DAE41E1FF96}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{4505BD2D-7DA5-4753-B033-A630E0F6499C}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://andreasgustafsson.visualstudio.com/defaultcollection
+		SccProjectUniqueName0 = KnockoutGenerator.Core\\KnockoutGenerator.Core.csproj
+		SccProjectName0 = KnockoutGenerator.Core
+		SccAuxPath0 = https://andreasgustafsson.visualstudio.com/defaultcollection
+		SccLocalPath0 = KnockoutGenerator.Core
+		SccProvider0 = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccProjectUniqueName1 = KnockoutGenerator\\KnockoutGenerator.csproj
+		SccProjectName1 = KnockoutGenerator
+		SccAuxPath1 = https://andreasgustafsson.visualstudio.com/defaultcollection
+		SccLocalPath1 = KnockoutGenerator
+		SccProvider1 = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccProjectUniqueName2 = KnockoutGenerator.UnitTests\\KnockoutGenerator.UnitTests.csproj
+		SccProjectTopLevelParentUniqueName2 = KnockoutGenerator.sln
+		SccProjectName2 = KnockoutGenerator.UnitTests
+		SccAuxPath2 = https://andreasgustafsson.visualstudio.com/defaultcollection
+		SccLocalPath2 = KnockoutGenerator.UnitTests
+		SccProvider2 = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccProjectUniqueName3 = KnockoutGenerator\\KnockoutGenerator_IntegrationTests\\KnockoutGenerator_IntegrationTests.csproj
+		SccProjectTopLevelParentUniqueName3 = KnockoutGenerator.sln
+		SccProjectName3 = KnockoutGenerator/KnockoutGenerator_IntegrationTests
+		SccAuxPath3 = https://andreasgustafsson.visualstudio.com/defaultcollection
+		SccLocalPath3 = KnockoutGenerator\\KnockoutGenerator_IntegrationTests
+		SccProvider3 = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccProjectUniqueName4 = KnockoutGenerator\\KnockoutGenerator_UnitTests\\KnockoutGenerator_UnitTests.csproj
+		SccProjectTopLevelParentUniqueName4 = KnockoutGenerator.sln
+		SccProjectName4 = KnockoutGenerator/KnockoutGenerator_UnitTests
+		SccAuxPath4 = https://andreasgustafsson.visualstudio.com/defaultcollection
+		SccLocalPath4 = KnockoutGenerator\\KnockoutGenerator_UnitTests
+		SccProvider4 = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFBD665A-ED66-40D1-96D1-0528769856A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFBD665A-ED66-40D1-96D1-0528769856A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFBD665A-ED66-40D1-96D1-0528769856A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFBD665A-ED66-40D1-96D1-0528769856A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F117F997-BCD1-4B3C-86A1-8B8E84E8D1DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F117F997-BCD1-4B3C-86A1-8B8E84E8D1DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F117F997-BCD1-4B3C-86A1-8B8E84E8D1DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F117F997-BCD1-4B3C-86A1-8B8E84E8D1DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52ED7149-0FEC-4670-A22C-7F21020A5A09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52ED7149-0FEC-4670-A22C-7F21020A5A09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52ED7149-0FEC-4670-A22C-7F21020A5A09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52ED7149-0FEC-4670-A22C-7F21020A5A09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{247B4A83-E0A3-4F98-8011-102E6BBC45BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{247B4A83-E0A3-4F98-8011-102E6BBC45BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{247B4A83-E0A3-4F98-8011-102E6BBC45BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{247B4A83-E0A3-4F98-8011-102E6BBC45BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65B56C09-85DB-4D1A-B03C-0DAE41E1FF96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65B56C09-85DB-4D1A-B03C-0DAE41E1FF96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65B56C09-85DB-4D1A-B03C-0DAE41E1FF96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65B56C09-85DB-4D1A-B03C-0DAE41E1FF96}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{247B4A83-E0A3-4F98-8011-102E6BBC45BB} = {4505BD2D-7DA5-4753-B033-A630E0F6499C}
+		{F117F997-BCD1-4B3C-86A1-8B8E84E8D1DA} = {4505BD2D-7DA5-4753-B033-A630E0F6499C}
+		{52ED7149-0FEC-4670-A22C-7F21020A5A09} = {4505BD2D-7DA5-4753-B033-A630E0F6499C}
+	EndGlobalSection
+EndGlobal

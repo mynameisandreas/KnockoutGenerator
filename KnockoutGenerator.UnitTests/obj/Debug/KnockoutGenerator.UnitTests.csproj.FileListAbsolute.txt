@@ -1,0 +1,38 @@
+C:\Users\Andreas\Documents\Visual Studio 2012\Projects\KnockoutGenerator\KnockoutGenerator-Development\KnockoutGenerator.UnitTests\bin\Debug\TestFiles\Test.vb
+C:\Users\Andreas\Documents\Visual Studio 2012\Projects\KnockoutGenerator\KnockoutGenerator-Development\KnockoutGenerator.UnitTests\bin\Debug\TestFiles\Array.cs
+C:\Users\Andreas\Documents\Visual Studio 2012\Projects\KnockoutGenerator\KnockoutGenerator-Development\KnockoutGenerator.UnitTests\bin\Debug\TestFiles\Test.cs
+C:\Users\Andreas\Documents\Visual Studio 2012\Projects\KnockoutGenerator\KnockoutGenerator-Development\KnockoutGenerator.UnitTests\bin\Debug\KnockoutGenerator.UnitTests.dll
+C:\Users\Andreas\Documents\Visual Studio 2012\Projects\KnockoutGenerator\KnockoutGenerator-Development\KnockoutGenerator.UnitTests\bin\Debug\KnockoutGenerator.UnitTests.pdb
+C:\Users\Andreas\Documents\Visual Studio 2012\Projects\KnockoutGenerator\KnockoutGenerator-Development\KnockoutGenerator.UnitTests\bin\Debug\KnockoutGenerator.Core.dll
+C:\Users\Andreas\Documents\Visual Studio 2012\Projects\KnockoutGenerator\KnockoutGenerator-Development\KnockoutGenerator.UnitTests\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Andreas\Documents\Visual Studio 2012\Projects\KnockoutGenerator\KnockoutGenerator-Development\KnockoutGenerator.UnitTests\bin\Debug\Moq.dll
+C:\Users\Andreas\Documents\Visual Studio 2012\Projects\KnockoutGenerator\KnockoutGenerator-Development\KnockoutGenerator.UnitTests\bin\Debug\nunit.framework.dll
+C:\Users\Andreas\Documents\Visual Studio 2012\Projects\KnockoutGenerator\KnockoutGenerator-Development\KnockoutGenerator.UnitTests\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Andreas\Documents\Visual Studio 2012\Projects\KnockoutGenerator\KnockoutGenerator-Development\KnockoutGenerator.UnitTests\bin\Debug\KnockoutGenerator.Core.pdb
+C:\Users\Andreas\Documents\Visual Studio 2012\Projects\KnockoutGenerator\KnockoutGenerator-Development\KnockoutGenerator.UnitTests\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\Andreas\Documents\Visual Studio 2012\Projects\KnockoutGenerator\KnockoutGenerator-Development\KnockoutGenerator.UnitTests\bin\Debug\Moq.pdb
+C:\Users\Andreas\Documents\Visual Studio 2012\Projects\KnockoutGenerator\KnockoutGenerator-Development\KnockoutGenerator.UnitTests\bin\Debug\Moq.xml
+C:\Users\Andreas\Documents\Visual Studio 2012\Projects\KnockoutGenerator\KnockoutGenerator-Development\KnockoutGenerator.UnitTests\bin\Debug\nunit.framework.xml
+C:\Users\Andreas\Documents\Visual Studio 2012\Projects\KnockoutGenerator\KnockoutGenerator-Development\KnockoutGenerator.UnitTests\obj\Debug\KnockoutGenerator.UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Andreas\Documents\Visual Studio 2012\Projects\KnockoutGenerator\KnockoutGenerator-Development\KnockoutGenerator.UnitTests\obj\Debug\KnockoutGenerator.UnitTests.dll
+C:\Users\Andreas\Documents\Visual Studio 2012\Projects\KnockoutGenerator\KnockoutGenerator-Development\KnockoutGenerator.UnitTests\obj\Debug\KnockoutGenerator.UnitTests.pdb
+C:\Users\Andreas\Documents\Visual Studio 2012\Projects\KnockoutGenerator\KnockoutGenerator-Development\KnockoutGenerator.UnitTests\bin\Debug\TestFiles\Inheritance.cs
+C:\Users\Andreas\Documents\GitHub\KnockoutGenerator\KnockoutGenerator.UnitTests\bin\Debug\TestFiles\Test.vb
+C:\Users\Andreas\Documents\GitHub\KnockoutGenerator\KnockoutGenerator.UnitTests\bin\Debug\TestFiles\Array.cs
+C:\Users\Andreas\Documents\GitHub\KnockoutGenerator\KnockoutGenerator.UnitTests\bin\Debug\TestFiles\Test.cs
+C:\Users\Andreas\Documents\GitHub\KnockoutGenerator\KnockoutGenerator.UnitTests\bin\Debug\TestFiles\Inheritance.cs
+C:\Users\Andreas\Documents\GitHub\KnockoutGenerator\KnockoutGenerator.UnitTests\bin\Debug\KnockoutGenerator.UnitTests.dll
+C:\Users\Andreas\Documents\GitHub\KnockoutGenerator\KnockoutGenerator.UnitTests\bin\Debug\KnockoutGenerator.UnitTests.pdb
+C:\Users\Andreas\Documents\GitHub\KnockoutGenerator\KnockoutGenerator.UnitTests\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Andreas\Documents\GitHub\KnockoutGenerator\KnockoutGenerator.UnitTests\bin\Debug\KnockoutGenerator.Core.dll
+C:\Users\Andreas\Documents\GitHub\KnockoutGenerator\KnockoutGenerator.UnitTests\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Andreas\Documents\GitHub\KnockoutGenerator\KnockoutGenerator.UnitTests\bin\Debug\Moq.dll
+C:\Users\Andreas\Documents\GitHub\KnockoutGenerator\KnockoutGenerator.UnitTests\bin\Debug\nunit.framework.dll
+C:\Users\Andreas\Documents\GitHub\KnockoutGenerator\KnockoutGenerator.UnitTests\bin\Debug\KnockoutGenerator.Core.pdb
+C:\Users\Andreas\Documents\GitHub\KnockoutGenerator\KnockoutGenerator.UnitTests\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\Andreas\Documents\GitHub\KnockoutGenerator\KnockoutGenerator.UnitTests\bin\Debug\Moq.pdb
+C:\Users\Andreas\Documents\GitHub\KnockoutGenerator\KnockoutGenerator.UnitTests\bin\Debug\Moq.xml
+C:\Users\Andreas\Documents\GitHub\KnockoutGenerator\KnockoutGenerator.UnitTests\bin\Debug\nunit.framework.xml
+C:\Users\Andreas\Documents\GitHub\KnockoutGenerator\KnockoutGenerator.UnitTests\obj\Debug\KnockoutGenerator.UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Andreas\Documents\GitHub\KnockoutGenerator\KnockoutGenerator.UnitTests\obj\Debug\KnockoutGenerator.UnitTests.dll
+C:\Users\Andreas\Documents\GitHub\KnockoutGenerator\KnockoutGenerator.UnitTests\obj\Debug\KnockoutGenerator.UnitTests.pdb

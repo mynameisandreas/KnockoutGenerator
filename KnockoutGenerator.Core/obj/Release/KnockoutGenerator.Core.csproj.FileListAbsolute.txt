@@ -1,0 +1,12 @@
+C:\Users\Andreas\Documents\Visual Studio 2012\Projects\KnockoutGenerator\KnockoutGenerator-Development\KnockoutGenerator.Core\bin\Release\KnockoutGenerator.Core.dll
+C:\Users\Andreas\Documents\Visual Studio 2012\Projects\KnockoutGenerator\KnockoutGenerator-Development\KnockoutGenerator.Core\bin\Release\KnockoutGenerator.Core.pdb
+C:\Users\Andreas\Documents\Visual Studio 2012\Projects\KnockoutGenerator\KnockoutGenerator-Development\KnockoutGenerator.Core\bin\Release\ICSharpCode.NRefactory.dll
+C:\Users\Andreas\Documents\Visual Studio 2012\Projects\KnockoutGenerator\KnockoutGenerator-Development\KnockoutGenerator.Core\bin\Release\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Andreas\Documents\Visual Studio 2012\Projects\KnockoutGenerator\KnockoutGenerator-Development\KnockoutGenerator.Core\bin\Release\Microsoft.Practices.Unity.dll
+C:\Users\Andreas\Documents\Visual Studio 2012\Projects\KnockoutGenerator\KnockoutGenerator-Development\KnockoutGenerator.Core\bin\Release\nunit.framework.dll
+C:\Users\Andreas\Documents\Visual Studio 2012\Projects\KnockoutGenerator\KnockoutGenerator-Development\KnockoutGenerator.Core\bin\Release\Microsoft.Practices.Unity.xml
+C:\Users\Andreas\Documents\Visual Studio 2012\Projects\KnockoutGenerator\KnockoutGenerator-Development\KnockoutGenerator.Core\bin\Release\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\Andreas\Documents\Visual Studio 2012\Projects\KnockoutGenerator\KnockoutGenerator-Development\KnockoutGenerator.Core\bin\Release\nunit.framework.xml
+C:\Users\Andreas\Documents\Visual Studio 2012\Projects\KnockoutGenerator\KnockoutGenerator-Development\KnockoutGenerator.Core\obj\Release\KnockoutGenerator.Core.dll
+C:\Users\Andreas\Documents\Visual Studio 2012\Projects\KnockoutGenerator\KnockoutGenerator-Development\KnockoutGenerator.Core\obj\Release\KnockoutGenerator.Core.pdb
+C:\Users\Andreas\Documents\Visual Studio 2012\Projects\KnockoutGenerator\KnockoutGenerator-Development\KnockoutGenerator.Core\obj\Release\KnockoutGenerator.Core.csprojResolveAssemblyReference.cache

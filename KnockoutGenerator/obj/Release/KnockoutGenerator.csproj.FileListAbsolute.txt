@@ -34,3 +34,39 @@ C:\Users\Andreas\Documents\Visual Studio 2012\Projects\KnockoutGenerator\Knockou
 C:\Users\Andreas\Documents\Visual Studio 2012\Projects\KnockoutGenerator\KnockoutGenerator-Development\KnockoutGenerator\bin\Release\KnockoutGenerator.vsix
 C:\Users\Andreas\Documents\Visual Studio 2012\Projects\KnockoutGenerator\KnockoutGenerator-Development\KnockoutGenerator\bin\Release\extension.vsixmanifest
 C:\Users\Andreas\Documents\Visual Studio 2012\Projects\KnockoutGenerator\KnockoutGenerator-Development\KnockoutGenerator\obj\Release\extension.vsixmanifest
+C:\Users\andreas.gustafsson\Documents\GitHub\KnockoutGenerator\KnockoutGenerator\bin\Release\KnockoutGenerator.dll.config
+C:\Users\andreas.gustafsson\Documents\GitHub\KnockoutGenerator\KnockoutGenerator\bin\Release\KnockoutGenerator.dll
+C:\Users\andreas.gustafsson\Documents\GitHub\KnockoutGenerator\KnockoutGenerator\bin\Release\KnockoutGenerator.pdb
+C:\Users\andreas.gustafsson\Documents\GitHub\KnockoutGenerator\KnockoutGenerator\bin\Release\KnockoutGenerator.dll.CodeAnalysisLog.xml
+C:\Users\andreas.gustafsson\Documents\GitHub\KnockoutGenerator\KnockoutGenerator\bin\Release\KnockoutGenerator.dll.lastcodeanalysissucceeded
+C:\Users\andreas.gustafsson\Documents\GitHub\KnockoutGenerator\KnockoutGenerator\bin\Release\KnockoutGenerator.pkgdef
+C:\Users\andreas.gustafsson\Documents\GitHub\KnockoutGenerator\KnockoutGenerator\bin\Release\KnockoutGenerator.vsix
+C:\Users\andreas.gustafsson\Documents\GitHub\KnockoutGenerator\KnockoutGenerator\bin\Release\extension.vsixmanifest
+C:\Users\andreas.gustafsson\Documents\GitHub\KnockoutGenerator\KnockoutGenerator\bin\Release\ICSharpCode.NRefactory.dll
+C:\Users\andreas.gustafsson\Documents\GitHub\KnockoutGenerator\KnockoutGenerator\bin\Release\KnockoutGenerator.Core.dll
+C:\Users\andreas.gustafsson\Documents\GitHub\KnockoutGenerator\KnockoutGenerator\bin\Release\Microsoft.Practices.Unity.dll
+C:\Users\andreas.gustafsson\Documents\GitHub\KnockoutGenerator\KnockoutGenerator\bin\Release\Mono.Cecil.dll
+C:\Users\andreas.gustafsson\Documents\GitHub\KnockoutGenerator\KnockoutGenerator\bin\Release\Mono.Cecil.Mdb.dll
+C:\Users\andreas.gustafsson\Documents\GitHub\KnockoutGenerator\KnockoutGenerator\bin\Release\Mono.Cecil.Pdb.dll
+C:\Users\andreas.gustafsson\Documents\GitHub\KnockoutGenerator\KnockoutGenerator\bin\Release\Mono.Cecil.Rocks.dll
+C:\Users\andreas.gustafsson\Documents\GitHub\KnockoutGenerator\KnockoutGenerator\bin\Release\KnockoutGenerator.Core.pdb
+C:\Users\andreas.gustafsson\Documents\GitHub\KnockoutGenerator\KnockoutGenerator\bin\Release\Microsoft.Practices.Unity.xml
+C:\Users\andreas.gustafsson\Documents\GitHub\KnockoutGenerator\KnockoutGenerator\obj\Release\KnockoutGenerator.csprojResolveAssemblyReference.cache
+C:\Users\andreas.gustafsson\Documents\GitHub\KnockoutGenerator\KnockoutGenerator\obj\Release\KnockoutGenerator.csproj.ResolveComReference.cache
+C:\Users\andreas.gustafsson\Documents\GitHub\KnockoutGenerator\KnockoutGenerator\obj\Release\OptionsWindow.baml
+C:\Users\andreas.gustafsson\Documents\GitHub\KnockoutGenerator\KnockoutGenerator\obj\Release\OptionsWindow.g.cs
+C:\Users\andreas.gustafsson\Documents\GitHub\KnockoutGenerator\KnockoutGenerator\obj\Release\KnockoutGenerator_MarkupCompile.cache
+C:\Users\andreas.gustafsson\Documents\GitHub\KnockoutGenerator\KnockoutGenerator\obj\Release\KnockoutGenerator.g.resources
+C:\Users\andreas.gustafsson\Documents\GitHub\KnockoutGenerator\KnockoutGenerator\obj\Release\VSPackage.resources
+C:\Users\andreas.gustafsson\Documents\GitHub\KnockoutGenerator\KnockoutGenerator\obj\Release\AndreasGustafsson.KnockoutGenerator.Resources.resources
+C:\Users\andreas.gustafsson\Documents\GitHub\KnockoutGenerator\KnockoutGenerator\obj\Release\KnockoutGenerator.csproj.GenerateResource.Cache
+C:\Users\andreas.gustafsson\Documents\GitHub\KnockoutGenerator\KnockoutGenerator\obj\Release\KnockoutGenerator.cto
+C:\Users\andreas.gustafsson\Documents\GitHub\KnockoutGenerator\KnockoutGenerator\obj\Release\VSCT.read.1.tlog
+C:\Users\andreas.gustafsson\Documents\GitHub\KnockoutGenerator\KnockoutGenerator\obj\Release\VSCT.write.1.tlog
+C:\Users\andreas.gustafsson\Documents\GitHub\KnockoutGenerator\KnockoutGenerator\obj\Release\CtoResourceMerger.cache
+C:\Users\andreas.gustafsson\Documents\GitHub\KnockoutGenerator\KnockoutGenerator\obj\Release\VSPackage.resources.original
+C:\Users\andreas.gustafsson\Documents\GitHub\KnockoutGenerator\KnockoutGenerator\obj\Release\KnockoutGenerator.dll
+C:\Users\andreas.gustafsson\Documents\GitHub\KnockoutGenerator\KnockoutGenerator\obj\Release\KnockoutGenerator.pdb
+C:\Users\andreas.gustafsson\Documents\GitHub\KnockoutGenerator\KnockoutGenerator\obj\Release\KnockoutGenerator.pkgdef
+C:\Users\andreas.gustafsson\Documents\GitHub\KnockoutGenerator\KnockoutGenerator\obj\Release\KnockoutGenerator.latest.pkgdef
+C:\Users\andreas.gustafsson\Documents\GitHub\KnockoutGenerator\KnockoutGenerator\obj\Release\extension.vsixmanifest

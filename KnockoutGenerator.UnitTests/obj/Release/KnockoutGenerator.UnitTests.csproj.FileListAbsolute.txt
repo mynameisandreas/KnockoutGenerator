@@ -16,3 +16,22 @@ C:\Users\Andreas\Documents\Visual Studio 2012\Projects\KnockoutGenerator\Knockou
 C:\Users\Andreas\Documents\Visual Studio 2012\Projects\KnockoutGenerator\KnockoutGenerator-Development\KnockoutGenerator.UnitTests\obj\Release\KnockoutGenerator.UnitTests.csprojResolveAssemblyReference.cache
 C:\Users\Andreas\Documents\Visual Studio 2012\Projects\KnockoutGenerator\KnockoutGenerator-Development\KnockoutGenerator.UnitTests\obj\Release\KnockoutGenerator.UnitTests.dll
 C:\Users\Andreas\Documents\Visual Studio 2012\Projects\KnockoutGenerator\KnockoutGenerator-Development\KnockoutGenerator.UnitTests\obj\Release\KnockoutGenerator.UnitTests.pdb
+C:\Users\andreas.gustafsson\Documents\GitHub\KnockoutGenerator\KnockoutGenerator.UnitTests\bin\Release\TestFiles\Test.vb
+C:\Users\andreas.gustafsson\Documents\GitHub\KnockoutGenerator\KnockoutGenerator.UnitTests\bin\Release\TestFiles\Array.cs
+C:\Users\andreas.gustafsson\Documents\GitHub\KnockoutGenerator\KnockoutGenerator.UnitTests\bin\Release\TestFiles\Test.cs
+C:\Users\andreas.gustafsson\Documents\GitHub\KnockoutGenerator\KnockoutGenerator.UnitTests\bin\Release\TestFiles\Inheritance.cs
+C:\Users\andreas.gustafsson\Documents\GitHub\KnockoutGenerator\KnockoutGenerator.UnitTests\bin\Release\KnockoutGenerator.UnitTests.dll
+C:\Users\andreas.gustafsson\Documents\GitHub\KnockoutGenerator\KnockoutGenerator.UnitTests\bin\Release\KnockoutGenerator.UnitTests.pdb
+C:\Users\andreas.gustafsson\Documents\GitHub\KnockoutGenerator\KnockoutGenerator.UnitTests\bin\Release\ICSharpCode.NRefactory.dll
+C:\Users\andreas.gustafsson\Documents\GitHub\KnockoutGenerator\KnockoutGenerator.UnitTests\bin\Release\KnockoutGenerator.Core.dll
+C:\Users\andreas.gustafsson\Documents\GitHub\KnockoutGenerator\KnockoutGenerator.UnitTests\bin\Release\Microsoft.Practices.Unity.dll
+C:\Users\andreas.gustafsson\Documents\GitHub\KnockoutGenerator\KnockoutGenerator.UnitTests\bin\Release\Moq.dll
+C:\Users\andreas.gustafsson\Documents\GitHub\KnockoutGenerator\KnockoutGenerator.UnitTests\bin\Release\nunit.framework.dll
+C:\Users\andreas.gustafsson\Documents\GitHub\KnockoutGenerator\KnockoutGenerator.UnitTests\bin\Release\KnockoutGenerator.Core.pdb
+C:\Users\andreas.gustafsson\Documents\GitHub\KnockoutGenerator\KnockoutGenerator.UnitTests\bin\Release\Microsoft.Practices.Unity.xml
+C:\Users\andreas.gustafsson\Documents\GitHub\KnockoutGenerator\KnockoutGenerator.UnitTests\bin\Release\Moq.pdb
+C:\Users\andreas.gustafsson\Documents\GitHub\KnockoutGenerator\KnockoutGenerator.UnitTests\bin\Release\Moq.xml
+C:\Users\andreas.gustafsson\Documents\GitHub\KnockoutGenerator\KnockoutGenerator.UnitTests\bin\Release\nunit.framework.xml
+C:\Users\andreas.gustafsson\Documents\GitHub\KnockoutGenerator\KnockoutGenerator.UnitTests\obj\Release\KnockoutGenerator.UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\andreas.gustafsson\Documents\GitHub\KnockoutGenerator\KnockoutGenerator.UnitTests\obj\Release\KnockoutGenerator.UnitTests.dll
+C:\Users\andreas.gustafsson\Documents\GitHub\KnockoutGenerator\KnockoutGenerator.UnitTests\obj\Release\KnockoutGenerator.UnitTests.pdb

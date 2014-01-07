@@ -40,3 +40,17 @@ C:\Users\Andreas\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Andreas
 C:\Users\Andreas\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Andreas Gustafsson\Knockout Generator\1.3\\nunit.framework.dll
 C:\Users\Andreas\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Andreas Gustafsson\Knockout Generator\1.3\\KnockoutGenerator.pdb
 C:\Users\Andreas\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Andreas Gustafsson\Knockout Generator\1.3\\KnockoutGenerator.Core.pdb
+C:\Users\andreas.gustafsson\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Andreas Gustafsson\Knockout Generator\1.3\\KnockoutGenerator.dll
+C:\Users\andreas.gustafsson\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Andreas Gustafsson\Knockout Generator\1.3\\ICSharpCode.NRefactory.dll
+C:\Users\andreas.gustafsson\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Andreas Gustafsson\Knockout Generator\1.3\\KnockoutGenerator.Core.dll
+C:\Users\andreas.gustafsson\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Andreas Gustafsson\Knockout Generator\1.3\\Microsoft.Practices.Unity.dll
+C:\Users\andreas.gustafsson\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Andreas Gustafsson\Knockout Generator\1.3\\Mono.Cecil.dll
+C:\Users\andreas.gustafsson\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Andreas Gustafsson\Knockout Generator\1.3\\Mono.Cecil.Mdb.dll
+C:\Users\andreas.gustafsson\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Andreas Gustafsson\Knockout Generator\1.3\\Mono.Cecil.Pdb.dll
+C:\Users\andreas.gustafsson\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Andreas Gustafsson\Knockout Generator\1.3\\Mono.Cecil.Rocks.dll
+C:\Users\andreas.gustafsson\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Andreas Gustafsson\Knockout Generator\1.3\\KnockoutGenerator.pkgdef
+C:\Users\andreas.gustafsson\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Andreas Gustafsson\Knockout Generator\1.3\\extension.vsixmanifest
+C:\Users\andreas.gustafsson\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Andreas Gustafsson\Knockout Generator\1.3\\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\andreas.gustafsson\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Andreas Gustafsson\Knockout Generator\1.3\\nunit.framework.dll
+C:\Users\andreas.gustafsson\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Andreas Gustafsson\Knockout Generator\1.3\\KnockoutGenerator.pdb
+C:\Users\andreas.gustafsson\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Andreas Gustafsson\Knockout Generator\1.3\\KnockoutGenerator.Core.pdb

@@ -2,7 +2,7 @@
 
 namespace ClassLibrary1
 {
-    public class Test : Inner
+    public class Test
     {
         public string Foo { get; set; }
         public int Bar { get; set; }
@@ -17,8 +17,4 @@ namespace ClassLibrary1
 
     }
 
-    public class Inner
-    {
-        public string InnerProp { get; set; }
-    }
 }

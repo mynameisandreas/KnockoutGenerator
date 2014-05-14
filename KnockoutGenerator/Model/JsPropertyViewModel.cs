@@ -13,6 +13,7 @@ namespace AndreasGustafsson.KnockoutGenerator.Model
 
         public string Name { get; set; }
         public bool IsArray { get; set; }
+        public string OfType { get; set; }
 
         private bool _ignore;
         public bool Ignore

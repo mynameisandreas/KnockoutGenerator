@@ -22,3 +22,15 @@ C:\Users\andreas.gustafsson\Documents\GitHub\KnockoutGenerator\KnockoutGenerator
 C:\Users\andreas.gustafsson\Documents\GitHub\KnockoutGenerator\KnockoutGenerator.Core\obj\Release\KnockoutGenerator.Core.csprojResolveAssemblyReference.cache
 C:\Users\andreas.gustafsson\Documents\GitHub\KnockoutGenerator\KnockoutGenerator.Core\obj\Release\KnockoutGenerator.Core.dll
 C:\Users\andreas.gustafsson\Documents\GitHub\KnockoutGenerator\KnockoutGenerator.Core\obj\Release\KnockoutGenerator.Core.pdb
+C:\Users\Jason\Code Repos\KnockoutGenerator\KnockoutGenerator\KnockoutGenerator.Core\bin\Release\KnockoutGenerator.Core.dll
+C:\Users\Jason\Code Repos\KnockoutGenerator\KnockoutGenerator\KnockoutGenerator.Core\bin\Release\KnockoutGenerator.Core.pdb
+C:\Users\Jason\Code Repos\KnockoutGenerator\KnockoutGenerator\KnockoutGenerator.Core\bin\Release\ICSharpCode.NRefactory.dll
+C:\Users\Jason\Code Repos\KnockoutGenerator\KnockoutGenerator\KnockoutGenerator.Core\bin\Release\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Jason\Code Repos\KnockoutGenerator\KnockoutGenerator\KnockoutGenerator.Core\bin\Release\Microsoft.Practices.Unity.dll
+C:\Users\Jason\Code Repos\KnockoutGenerator\KnockoutGenerator\KnockoutGenerator.Core\bin\Release\nunit.framework.dll
+C:\Users\Jason\Code Repos\KnockoutGenerator\KnockoutGenerator\KnockoutGenerator.Core\bin\Release\Microsoft.Practices.Unity.xml
+C:\Users\Jason\Code Repos\KnockoutGenerator\KnockoutGenerator\KnockoutGenerator.Core\bin\Release\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\Jason\Code Repos\KnockoutGenerator\KnockoutGenerator\KnockoutGenerator.Core\bin\Release\nunit.framework.xml
+C:\Users\Jason\Code Repos\KnockoutGenerator\KnockoutGenerator\KnockoutGenerator.Core\obj\Release\KnockoutGenerator.Core.csprojResolveAssemblyReference.cache
+C:\Users\Jason\Code Repos\KnockoutGenerator\KnockoutGenerator\KnockoutGenerator.Core\obj\Release\KnockoutGenerator.Core.dll
+C:\Users\Jason\Code Repos\KnockoutGenerator\KnockoutGenerator\KnockoutGenerator.Core\obj\Release\KnockoutGenerator.Core.pdb

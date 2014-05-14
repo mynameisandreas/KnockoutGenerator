@@ -28,3 +28,6 @@ C:\Users\andreas.gustafsson\Documents\GitHub\KnockoutGenerator\KnockoutGenerator
 C:\Users\andreas.gustafsson\Documents\GitHub\KnockoutGenerator\KnockoutGenerator\KnockoutGenerator_UnitTests\obj\Release\KnockoutGenerator_UnitTests.csprojResolveAssemblyReference.cache
 C:\Users\andreas.gustafsson\Documents\GitHub\KnockoutGenerator\KnockoutGenerator\KnockoutGenerator_UnitTests\obj\Release\KnockoutGenerator_UnitTests.dll
 C:\Users\andreas.gustafsson\Documents\GitHub\KnockoutGenerator\KnockoutGenerator\KnockoutGenerator_UnitTests\obj\Release\KnockoutGenerator_UnitTests.pdb
+C:\Users\Jason\Code Repos\KnockoutGenerator\KnockoutGenerator\KnockoutGenerator\KnockoutGenerator_UnitTests\obj\Release\KnockoutGenerator_UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Jason\Code Repos\KnockoutGenerator\KnockoutGenerator\KnockoutGenerator\KnockoutGenerator_UnitTests\obj\Release\KnockoutGenerator_UnitTests.dll
+C:\Users\Jason\Code Repos\KnockoutGenerator\KnockoutGenerator\KnockoutGenerator\KnockoutGenerator_UnitTests\obj\Release\KnockoutGenerator_UnitTests.pdb

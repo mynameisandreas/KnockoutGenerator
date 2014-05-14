@@ -12,7 +12,7 @@
          <Members>
           <Member Name="#GetJsFileContent(AndreasGustafsson.KnockoutGenerator.Model.ViewModel)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="True">
            <Messages>
-            <Message TypeName="Provide correct arguments to formatting methods" Category="Microsoft.Usage" CheckId="CA2241" Status="Active" Created="2014-05-14 13:18:53Z" FixCategory="DependsOnFix">
+            <Message TypeName="Provide correct arguments to formatting methods" Category="Microsoft.Usage" CheckId="CA2241" Status="Active" Created="2014-05-14 13:40:27Z" FixCategory="DependsOnFix">
              <Issue Name="MissingFormatItem" Certainty="75" Level="Warning" Path="c:\Users\Jason\Code Repos\KnockoutGenerator\KnockoutGenerator\KnockoutGenerator\Model" File="ViewModel.cs" Line="116">Method 'ViewModelExtensions.GetJsFileContent(this ViewModel)' calls 'string.Format(string, params object[])' and does not provide a format item for argument "3, 4". The provided format string is: '"new {4}({0}.{1} || {{}});"'</Issue>
             </Message>
            </Messages>

@@ -124,9 +124,11 @@ namespace KnockoutGenerator.Core.Business
                 {
                     var jsProperty = new JsProperty()
                     {
-                        OfType = fieldsDeclaration.TypeReference.GenericTypes.Count == 0 ? fieldsDeclaration.TypeReference.Type : null,
+                        OfType = fieldsDeclaration.TypeReference.GenericTypes.Count == 0 ? 
+                            fieldsDeclaration.TypeReference.Type : 
+                            fieldsDeclaration.TypeReference.GenericTypes[0].Type,
                         Name = fieldDeclaration.Name,
-                        IsArray = (fieldDeclaration.TypeReference.GenericTypes.Count > 0 || 
+                        IsArray = (fieldsDeclaration.TypeReference.GenericTypes.Count > 0 || 
                             fieldsDeclaration.TypeReference.IsArrayType)
                     };
 

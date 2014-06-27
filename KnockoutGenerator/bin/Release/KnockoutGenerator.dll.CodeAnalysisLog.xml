@@ -1,6 +1,43 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/xsl" href="c:\program files (x86)\microsoft visual studio 11.0\team tools\static analysis tools\fxcop\Xml\CodeAnalysisReport.xsl"?>
 <FxCopReport Version="11.0">
+ <Targets>
+  <Target Name="C:\Users\Jason\Code Repos\KnockoutGenerator\KnockoutGenerator\KnockoutGenerator\bin\Release\KnockoutGenerator.dll">
+   <Modules>
+    <Module Name="knockoutgenerator.dll">
+     <Namespaces>
+      <Namespace Name="AndreasGustafsson.KnockoutGenerator.Model">
+       <Types>
+        <Type Name="ViewModelExtensions" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#GetJsFileContent(AndreasGustafsson.KnockoutGenerator.Model.ViewModel)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="Provide correct arguments to formatting methods" Category="Microsoft.Usage" CheckId="CA2241" Status="Active" Created="2014-05-14 13:40:27Z" FixCategory="DependsOnFix">
+             <Issue Name="MissingFormatItem" Certainty="75" Level="Warning" Path="c:\Users\Jason\Code Repos\KnockoutGenerator\KnockoutGenerator\KnockoutGenerator\Model" File="ViewModel.cs" Line="116">Method 'ViewModelExtensions.GetJsFileContent(this ViewModel)' calls 'string.Format(string, params object[])' and does not provide a format item for argument "3, 4". The provided format string is: '"new {4}({0}.{1} || {{}});"'</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+       </Types>
+      </Namespace>
+     </Namespaces>
+    </Module>
+   </Modules>
+  </Target>
+ </Targets>
+ <Rules>
+  <Rule TypeName="Provide correct arguments to formatting methods" Category="Microsoft.Usage" CheckId="CA2241">
+   <Name>Provide correct arguments to formatting methods</Name>
+   <Description>Provide the correct number of arguments to String.Format calls.</Description>
+   <Resolution Name="MissingFormatItem">Method {0} calls {1} and does not provide a format item for argument {2}. The provided format string is: '{3}'</Resolution>
+   <Owner>RuleOwner</Owner>
+   <Url>http://msdn.microsoft.com/library/ms182361(VS.100).aspx</Url>
+   <Email />
+   <MessageLevel Certainty="75">Warning</MessageLevel>
+   <File Name="dataflowrules.dll" Version="11.0.0.0" />
+  </Rule>
+ </Rules>
  <Localized>
   <String Key="Category">Category</String>
   <String Key="Certainty">Certainty</String>

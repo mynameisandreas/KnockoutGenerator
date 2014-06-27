@@ -3,6 +3,8 @@ using System.Diagnostics.Contracts;
 using ICSharpCode.NRefactory.Ast;
 using ICSharpCode.NRefactory.Visitors;
 using KnockoutGenerator.Core.Models;
+using System.Linq;
+using System.Runtime.Serialization;
 
 namespace KnockoutGenerator.Core.Business
 {
@@ -84,10 +86,10 @@ namespace KnockoutGenerator.Core.Business
             if (propertyDeclaration.Modifier != Modifiers.Private)
             {
                 var jsProperty = new JsProperty()
-                                     {
-                                         Name = propertyDeclaration.Name,
-                                         IsArray = (propertyDeclaration.TypeReference.GenericTypes.Count > 0 || propertyDeclaration.TypeReference.IsArrayType)
-                                     };
+                {
+                    Name = propertyDeclaration.Name,
+                    IsArray = (propertyDeclaration.TypeReference.GenericTypes.Count > 0 || propertyDeclaration.TypeReference.IsArrayType)
+                };
 
                 CurrentParent.Properties.Add(jsProperty);
                 if (propertyDeclaration.Attributes.Count > 0)
@@ -105,6 +107,50 @@ namespace KnockoutGenerator.Core.Business
                     }
 
                     jsProperty.Attributes = jsAttributes;
+                }
+            }
+
+            return null;
+        }
+
+        public override object VisitFieldDeclaration(FieldDeclaration fieldsDeclaration, object data)
+        {
+            Contract.Requires(fieldsDeclaration != null);
+            fieldsDeclaration.AcceptChildren(this, data);
+
+            if (fieldsDeclaration.Attributes.Any(s => s.Attributes.Any(a => a.Name == "DataMember")))
+            {
+                foreach (var fieldDeclaration in fieldsDeclaration.Fields)
+                {
+                    var jsProperty = new JsProperty()
+                    {
+                        OfType = fieldsDeclaration.TypeReference.GenericTypes.Count == 0 ? 
+                            fieldsDeclaration.TypeReference.Type : 
+                            fieldsDeclaration.TypeReference.GenericTypes[0].Type,
+                        Name = fieldDeclaration.Name,
+                        IsArray = (fieldsDeclaration.TypeReference.GenericTypes.Count > 0 || 
+                            fieldsDeclaration.TypeReference.IsArrayType)
+                    };
+
+                    CurrentParent.Properties.Add(jsProperty);
+
+                    // I can't figure out what this part is for, but I'm preserving it anyway
+                    if (fieldsDeclaration.Attributes.Count > 0)
+                    {
+                        var jsAttributes = new List<JsAttribute>();
+
+                        foreach (var attribute in fieldsDeclaration.Attributes)
+                        {
+                            var a = attribute.Attributes[0];
+
+                            jsAttributes.Add(new JsAttribute()
+                            {
+                                Name = a.Name
+                            });
+                        }
+
+                        jsProperty.Attributes = jsAttributes;
+                    }
                 }
             }
 

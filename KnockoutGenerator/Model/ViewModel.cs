@@ -5,6 +5,7 @@ using System.IO;
 using System.Text;
 using KnockoutGenerator.Core.Extensions;
 using KnockoutGenerator.Core.Models;
+using System.Linq;
 
 namespace AndreasGustafsson.KnockoutGenerator.Model
 {
@@ -91,8 +92,31 @@ namespace AndreasGustafsson.KnockoutGenerator.Model
 
                     string propertyName = file.CamelCase ? prop.Name.FormatCamelCase() : prop.Name;
 
-                    var dataType =
-                        string.Format(!prop.IsObservable ? "{0}.{1};" : "{2}({0}.{1} || {3});", className, propertyName, observableType, type);
+                    string dataType;
+
+                    if (!prop.IsObservable)
+                    {
+                        dataType =
+                            string.Format("{0}.{1};", className, propertyName);
+                    }
+                    else
+                    {
+                        if (prop.OfType == null || !file.Classes.Any(c => string.CompareOrdinal(c.Name, prop.OfType) == 0))
+                        {
+                            dataType = string.Format("{2}({0}.{1} || {3});", className, propertyName, observableType, type);
+                        }
+                        else
+                        {
+                            if (prop.IsArray)
+                            {
+                                dataType = string.Format("{2}(({0}.{1} || {3}).map(function (e) {{ return new {4}(e); }}));", className, propertyName, observableType, type, prop.OfType);
+                            }
+                            else
+                            {
+                                dataType = string.Format("new {4}({0}.{1} || {{}});", className, propertyName, observableType, type, prop.OfType);
+                            }
+                        }
+                    }
 
                     var s = (indexOfItem == jsClass.Properties.Count - 1)
                                    ? string.Format("\tself.{0} = {1}", propertyName, dataType)
@@ -132,6 +156,7 @@ namespace AndreasGustafsson.KnockoutGenerator.Model
                     {
                         Ignore = p.Ignore,
                         Name = p.Name,
+                        OfType = p.OfType,
                         IsArray = p.IsArray,
                         IsObservable = p.IsObservable
                     }));
